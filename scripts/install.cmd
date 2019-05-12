@@ -1,0 +1,3 @@
+@echo off
+
+go install github.com/CesarGallego/KataJuez/cmd/...
